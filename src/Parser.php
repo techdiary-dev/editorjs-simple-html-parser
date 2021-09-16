@@ -123,6 +123,9 @@ class Parser
                 case 'simpleImage':
                     $this->parseImage($block);
                     break;
+                case 'image':
+                    $this->parseImage($block);
+                    break;
                 default:
                     break;
             }
