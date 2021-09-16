@@ -1,5 +1,5 @@
 {
-    "name": "durlecode/editorjs-simple-html-parser",
+    "name": "techdiary/editorjs-parser",
     "description": "A simple Json to Html parser for EditorJS library",
     "minimum-stability": "dev",
     "autoload": {
